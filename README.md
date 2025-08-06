@@ -4,8 +4,8 @@
 
 # 🌟 About me:
 - My full name is Tran Quang Huy.
-🏡 I was born on November 4th, 2006 in Thanh Hoa, Vietnam.
-🌏 Currently, I am living in Hanoi, the capital city of Vietnam.
+- 🏡 I was born on November 4th, 2006 in Thanh Hoa, Vietnam.
+- 🌏 Currently, I am living in Hanoi, the capital city of Vietnam.
 - I am a student at the University of Transport and Communications.
 
 # ⚔️ Skills:
