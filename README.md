@@ -1,10 +1,16 @@
+Hello👋, I'm Quang Huy. 
+Welcome to my Github!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huytran.quangkhongngai.4116) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alawag.ulhy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quanghuyy0411@gmail.com) 
+# About me:
+- My full name is Tran Quang Huy.
+- I was born on November 4th, 2006 in Thanh Hoa, Vietnam.
+- Currently, I am living in Hanoi, the capital city of Vietnam.
+- I am a student at the University of Transport and Communications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
+# Skills:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=qh120411&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=qh120411&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qh120411&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
