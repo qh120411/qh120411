@@ -1,5 +1,6 @@
-Hello👋, I'm Quang Huy. 
-Welcome to my Github!
+<h1 align = "center">Hello👋, I'm Quang Huy.</h1>
+
+![](https://komarev.com/ghpvc/?username=qh120411)
 
 # About me:
 - My full name is Tran Quang Huy.
