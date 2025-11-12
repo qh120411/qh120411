@@ -4,7 +4,7 @@
 
 <img src = "https://komarev.com/ghpvc/?username=qh120411">
 
-```bash
+```python
 - My full name is Tran Quang Huy.
 - I was born on November 4th, 2006, in Thanh Hoa, Vietnam.
 - I'm currently living in Hanoi, the capital city of Vietnam.
