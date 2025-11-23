@@ -23,8 +23,9 @@
 </div>
 <br> -->
 <div >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qh120411&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qh120411&layout=compact&langs_count=10">
 </div>
+
 
 ---
 
