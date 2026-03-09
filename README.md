@@ -6,8 +6,8 @@
 
 ```python
 - My full name is Tran Quang Huy.
-- I was born on November 4th, 2006, in Thanh Hoa, Vietnam.
-- I'm currently living in Hanoi, the capital city of Vietnam.
+- I was born on November 4th, 2006, in Thanh Hoa, Viet Nam.
+- I'm currently living in Hanoi, the capital city of Viet Nam.
 - I'm studying at the University of Transport and Communications.
 
 ```
