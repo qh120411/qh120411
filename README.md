@@ -22,7 +22,7 @@
 ```
 ---
 
-### 📊 GitHub Stats
+### `github.stats`
 
 <p align="center">
   <img src="https://github-readme-stats-three-rosy-97.vercel.app/api?username=qh120411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
