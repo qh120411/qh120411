@@ -8,17 +8,26 @@
 
 ---
 
-### `about.huy.json`
+### `about.huy.py`
+```py
+class TranQuangHuy:
+    def __init__(self):
+        self.name = "Tran Quang Huy"
+        self.location = "Hanoi, Vietnam"
+        self.status = "Student"
+        self.interests = [
+            "Algorithms",
+            "Open Source",
+            "Adaptive Systems",
+        ]
+        self.currently = "Interested in systems that evolve"
+        self.open_to = "Learning and collaboration"
 
-```json
-{
-  "name": "Tran Quang Huy",
-  "location": "Hanoi, Vietnam",
-  "status": "student",
-  "interests": ["algorithms", "open source", "adaptive systems"],
-  "currently": "interested in systems that evolve",
-  "open_to": "learning and collaboration"
-}
+    def say_hi(self):
+        return "Thanks for visiting my GitHub profile!"
+
+me = TranQuangHuy()
+print(me.say_hi())
 ```
 ---
 
