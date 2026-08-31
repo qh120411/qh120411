@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Quang Huy</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00C2A8&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Quang+Huy" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qh120411&color=7c3aed&style=flat-square" alt="profile views"/>
