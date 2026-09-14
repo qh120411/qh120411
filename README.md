@@ -18,12 +18,12 @@ class TranQuangHuy:
         self.location = "Hanoi, Vietnam"
         self.status = "Student"
         self.interests = [
-            "Algorithms",
-            "Open Source",
-            "Adaptive Systems",
+            "AI Engineering",
+            "Machine Learning",
+            "Software Development",
         ]
-        self.currently = "Interested in systems that evolve"
-        self.open_to = "Learning and collaboration"
+        self.currently = "Learning to build practical AI-powered applications"
+        self.open_to = "Learning, collaboration, and new opportunities"
 
     def say_hi(self):
         return "Thanks for visiting my GitHub profile!"
